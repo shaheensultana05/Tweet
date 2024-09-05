@@ -1,0 +1,41 @@
+.twitter{
+    border-color:rgb(160,160,160);
+    border-style: solid;
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:12px;
+    padding-right:12px;
+    font-family:Arial;
+    width:450px;
+    text-align:center;
+    border-radius:6px;
+    border-width:2px;
+}
+.profile{
+    width:50px;
+    height:50px;
+    border-radius:100%;
+    margin-right:8px;
+    vertical-align:middle;
+    object-fit: cover;
+}
+.tweet{
+    color:white;
+    border:none;
+    padding-top:9px;
+    padding-bottom:9px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius:30px;
+    vertical-align:middle;
+    font-weight:bold;
+    font-size:16px;
+    background-color:rgb(29, 155, 240);
+}
+.text{
+font-size:18px;
+border:none;
+width:300px;
+vertical-align:middle;
+
+}
